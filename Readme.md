@@ -8,7 +8,7 @@ Front label ask a question and when it is tapped the answer is revealed
 ### App Walk-though
 
 
-<img src='http://i.imgur.com/yudwJYv.gif' width="600" />
+https://i.imgur.com/OjNBnMk.gif
 
 
 
