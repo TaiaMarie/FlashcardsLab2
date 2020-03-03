@@ -1,20 +1,20 @@
-Flashcards
-\
-## Lab 1
+## Lab 2
 
 ### App Description
-Front label ask a question and when it is tapped the answer is revealed
+Add button lets user insert a question and answer to update flashcard
 
 ### App Walk-though
 
 
-https://i.imgur.com/OjNBnMk.gif
-
+<img src=https://i.imgur.com/C6bFmlp.gif width=200><br>
 
 
 ## Required
-- [x] Create New Project in Xcode
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHub
+- [X] User can open the creation screen
+- [X] User can cancel out of the creation screen
+- [X] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [X] Push code to GitHub
+## Optional
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [X] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
